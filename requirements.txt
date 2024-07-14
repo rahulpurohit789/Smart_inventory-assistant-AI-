@@ -9,3 +9,6 @@ mysql-connector-python
 pymysql
 sentence-transformers
 chromadb
+google-palm
+huggingface-hub
+
