@@ -3,11 +3,9 @@ python-dotenv==1.0.0
 streamlit==1.22.0
 tiktoken==0.4.0
 faiss-cpu==1.7.4
-protobuf==3.19.0
-langchain_experimental==0.0.1  # Specify a version if needed
-mysql-connector-python==8.0.31
-pymysql==1.0.2
-sentence-transformers==2.2.0
-chromadb==0.3.22
-google-palm==0.0.4
-huggingface-hub==0.11.1
+protobuf~=3.19.0
+langchain_experimental
+mysql-connector-python
+pymysql
+sentence-transformers
+chromadb
