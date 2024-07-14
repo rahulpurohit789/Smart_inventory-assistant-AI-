@@ -3,9 +3,11 @@ python-dotenv==1.0.0
 streamlit==1.22.0
 tiktoken==0.4.0
 faiss-cpu==1.7.4
-protobuf~=3.19.0
-langchain_experimental
+protobuf==3.19.0
+langchain_experimental  # Verify if this is the correct package name and if a specific version is needed
 mysql-connector-python
 pymysql
 sentence-transformers
-chromadb
+chromadb==0.3.22
+google-palm  # Verify if this package exists and specify version if needed
+huggingface-hub==0.11.1
